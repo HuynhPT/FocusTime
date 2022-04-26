@@ -1,0 +1,18 @@
+export const color = {
+  while: '#fff',
+  black: '#000000',
+  Red: '#FF0000',
+  Blue: '#0000FF',
+  Yellow: '#FFFF00',
+  Aqua: '#00FFFF',
+  Navy: '#000080',
+  Teal: '#008080',
+  Purple: '#800080',
+  Green: '#008000',
+  Olive: '#808000',
+  Fuchsia: '#FF00FF',
+  Silver: '#C0C0C0',
+  Gray: '#808080',
+  timthan: '#252250',
+  opa: 'rgba(94,132,226,0.5)',
+};
